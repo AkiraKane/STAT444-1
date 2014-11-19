@@ -1,5 +1,5 @@
 rm()
-setwd("C:/Users/Yinsen/Desktop/Term 3/STAT640/HW03")
+setwd("~/Desktop/Data Mining/hw3/")
 
 packages <- c("e1071", "caret", "doParallel", "parallel", "plyr")
 packages.list <- packages %in% rownames(installed.packages())
